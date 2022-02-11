@@ -1,0 +1,8 @@
+- Merge branch 'main' of https://github.com/OlgaBarmina/lab_01
+- added presentation
+- added report
+- Delete hello.html
+- completed lab
+- moved hello.html to lib
+- start
+- Starter Commit
